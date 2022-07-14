@@ -7,8 +7,9 @@ https://moaramore.com/2016/05/14/clasificacion-de-las-naves-espaciales
 
 Teniendo en cuenta el contexto anterior, deberás realizar lo siguiente:
 
-Realizar una extracción de atributos genéricos abstractos e interfaces, que puedas identificar en el artículo. Crear las interfaces y clases abstractas que creas convenientes según la lectura.
-Crear al menos dos comportamientos abstractos de una nave.
-Crear al menos cuatro tipos de naves diferentes con diferentes comportamiento, si es posible hacer una sobrecarga y una sobreescritura de métodos.
-Crear una clase principal que permita crear las naves de forma tal este bajo una condición booleana o por medio de una regla estipulada dentro de un switch-case o if-else.
-El programa debe tener una ejecución infinita, hasta que el usuario no diga que quiere terminar el programa, este no deberá culminar.
+1-Realizar una extracción de atributos genéricos abstractos e interfaces, que puedas identificar en el artículo. 
+2-Crear las interfaces y clases abstractas que creas convenientes según la lectura.
+3-Crear al menos dos comportamientos abstractos de una nave.
+4-Crear al menos cuatro tipos de naves diferentes con diferentes comportamiento, si es posible hacer una sobrecarga y una sobreescritura de métodos.
+5-Crear una clase principal que permita crear las naves de forma tal este bajo una condición booleana o por medio de una regla estipulada dentro de un switch-case o if-else.
+6-El programa debe tener una ejecución infinita, hasta que el usuario no diga que quiere terminar el programa, este no deberá culminar.
