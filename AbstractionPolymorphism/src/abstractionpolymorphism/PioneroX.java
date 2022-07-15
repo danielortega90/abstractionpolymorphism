@@ -21,6 +21,7 @@ public class PioneroX extends Spacecraft {
         this.push = 26;
         this.weight = 258;
         this.transport = 0.4;
+         this.years = 1.6;
 
     }
 
