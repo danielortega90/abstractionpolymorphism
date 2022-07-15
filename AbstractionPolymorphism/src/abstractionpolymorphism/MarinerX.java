@@ -23,6 +23,7 @@ public class MarinerX extends Spacecraft {
         this.push = 65.79;
         this.weight = 1093;
         this.transport = 0.6;
+         this.years = 1.3;
 
     }
 
